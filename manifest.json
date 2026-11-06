@@ -1,0 +1,1 @@
+{"name": "Rain Camp", "short_name": "Rain Camp", "start_url": "./index.html", "display": "fullscreen", "background_color": "#0f120e", "theme_color": "#0f120e", "orientation": "any", "icons": [{"src": "icon192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon512.png", "sizes": "512x512", "type": "image/png"}]}
