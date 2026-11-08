@@ -1,0 +1,6 @@
+data/
+audio/wav/
+__pycache__/
+*.blend1
+renders/
+scripts/runpod/__pycache__/
